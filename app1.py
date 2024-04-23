@@ -1,3 +1,5 @@
+pip install numpy==1.21.2
+
 import streamlit as st
 import pickle
 import numpy as np
