@@ -172,7 +172,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "e6a18004",
    "metadata": {},
    "outputs": [],
