@@ -1,6 +1,10 @@
 import streamlit as st
 import joblib
 import pandas as pd
+import os
+
+print("Current working directory:", os.getcwd())
+print("Files in current directory:", os.listdir())
 
 # Load the trained model
 model = joblib.load('rf_model.pkl')
